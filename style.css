@@ -27,15 +27,16 @@ body {
   display: block;
   width: 100%;
   box-sizing: border-box;
-  font-size: 10px;
+  font-size: 20px;
   text-align: center;
   padding: 20px;
   border: 1px solid #aeadbb; 
   border-radius: 5px;
   outline-style: none;
+  color: #3f3d56;
 }
 .input::placeholder {
-  color: #6c63ff;
+  color: #6b63ff8b;
   font-size: 20px;
 }
 .btn {
