@@ -13,13 +13,13 @@ body {
 }
 .form {
   background-color: #6b63ffcd;
-  padding: 20px;
+  padding: 30px;
   box-shadow: 3px 3px 10px 3px #aeadbb;
   border-radius: 5px;
   margin: 10px;
 }
 .form h1 {
-  font-size: 25px;
+  font-size: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
   color: #3f3d56;
@@ -30,7 +30,7 @@ body {
   box-sizing: border-box;
   font-size: 10px;
   text-align: center;
-  padding: 8px;
+  padding: 12px;
   border: 1px solid #aeadbb; 
   border-radius: 5px;
   outline-style: none;
@@ -43,7 +43,7 @@ body {
   color: white;
   border: none;
   display: block;
-  padding: 5px;
+  padding: 10px;
   width: 100%;
   margin: 10px 0px;
   border-radius: 5px;
