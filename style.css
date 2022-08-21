@@ -34,6 +34,7 @@ body {
   border-radius: 5px;
   outline-style: none;
   color: #3f3d56;
+  font-weight: bolder;
 }
 .input::placeholder {
   color: #6b63ff8b;
