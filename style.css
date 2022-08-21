@@ -19,7 +19,6 @@ body {
   margin: 10px;
 }
 .form h1 {
-  font-size: 30px;
   margin-top: 20px;
   margin-bottom: 20px;
   color: #3f3d56;
@@ -37,7 +36,7 @@ body {
 }
 .input::placeholder {
   color: #6c63ff;
-  font-size: 15px;
+  font-size: 20px;
 }
 .btn {
   background-color: #fb778b;
