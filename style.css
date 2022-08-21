@@ -13,7 +13,7 @@ body {
 }
 .form {
   background-color: #6b63ffcd;
-  padding: 30px;
+  padding: 35px;
   box-shadow: 3px 3px 10px 3px #aeadbb;
   border-radius: 5px;
   margin: 10px;
@@ -37,6 +37,7 @@ body {
 }
 .input::placeholder {
   color: #6c63ff;
+  font-size: 15px;
 }
 .btn {
   background-color: #fb778b;
@@ -49,7 +50,7 @@ body {
   border-radius: 5px;
   box-shadow: 0 .5px 4px white;
   cursor: pointer;
-  font-size: 12px;
+  font-size: 20px;
 }
 .btn:hover {
   filter: brightness(0.9);
@@ -57,4 +58,5 @@ body {
 .score {
   color: #fb778b;
   text-align: right;
+  font-size: 20px;
 }
